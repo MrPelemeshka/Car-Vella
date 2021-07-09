@@ -1,0 +1,5 @@
+<uwsgi>
+<socket>localhost:8012</socket>
+<pythonpath>/var/www/mysite/</pythonpath>
+<module>django_wsgi</module>
+</uwsgi>
