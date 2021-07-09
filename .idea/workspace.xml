@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d172c615-ffce-457c-ae77-a77c76817f85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/caravella_site/api/promocodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/caravella_site/api/promocodes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caravella_site/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/caravella_site/api/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caravella_site/api/utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/caravella_site/api/utilities.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +97,7 @@
       <workItem from="1625004441566" duration="349000" />
       <workItem from="1625004799474" duration="100000" />
       <workItem from="1625752160803" duration="11801000" />
-      <workItem from="1625845464686" duration="12030000" />
+      <workItem from="1625845464686" duration="14361000" />
     </task>
     <servers />
   </component>
