@@ -65,7 +65,7 @@ def api_add_promocode(request):
         return createErrorJsonResponse(ErrorsNames.UnsupportedPromoTypeError)
 
     if request.POST['condition_type'] not in PromoConditions_Codenames:
-        return createErrorJsonResponse(ErrorsNames.UnsupportedPromoCondition)
+        return createErrorJsonResponse(ErrorsNames.UnsupportedPromoConditionError)
 
     if request.POST['promo_type'] == 'discount' and \
             ErrorsNames.MissingParameterError > request.POST['promo_value'] or request.POST['promo_value'] < 0:

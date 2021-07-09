@@ -5,6 +5,5 @@ urlpatterns = [
     path('', include('caravella_site.api.tickets')),
     path('', include('caravella_site.api.promocodes')),
     path('', include('caravella_site.api.car')),
-    path('', include('caravella_site.api.bicycle')),
-
+    #   path('', include('caravella_site.api.bicycle')),
 ]
